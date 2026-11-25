@@ -1,0 +1,6 @@
+{
+  "name": "Dilli Darshan",
+  "description": "Wander Delhi NCR in a real-time multiplayer 2D world with Metro transit, heritage monuments, and iconic food trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
